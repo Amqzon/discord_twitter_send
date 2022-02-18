@@ -1,3 +1,4 @@
 discord.py==1.7.3
 twython==3.9.1
 discord-py-slash-command==2.3.2
+aiohttp>=3.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
